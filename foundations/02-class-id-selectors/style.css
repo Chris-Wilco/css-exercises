@@ -1,0 +1,22 @@
+*{
+    font-family: sans-serif;
+}
+
+.oddNums{
+    background: #ff000050;
+    font-family: "Verdana", "DejaVu Sans";
+}
+
+#line2{
+    font-size: 36px;
+    color: blue; 
+}
+
+#line4{
+    background-color: #00ff0070;
+    font-weight: bold;
+}
+
+.class24{
+    font-size: 24px;
+}
